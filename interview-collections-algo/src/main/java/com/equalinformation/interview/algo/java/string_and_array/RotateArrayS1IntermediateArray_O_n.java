@@ -6,7 +6,7 @@ package com.equalinformation.interview.algo.java.string_and_array;
  *
  * Problem: Rotate an array of n elements to the right by k steps.
  * For example, with n = 5 and k = 2, the array [1,2,3,4,5] is
- * rotated to [5,4,1,2,3]. How many different ways do you know to
+ * rotated to [4,5,1,2,3]. How many different ways do you know to
  * solve this problem?
  *
  * Solution note: Space is O(n) and time is O(n). You can check out the
