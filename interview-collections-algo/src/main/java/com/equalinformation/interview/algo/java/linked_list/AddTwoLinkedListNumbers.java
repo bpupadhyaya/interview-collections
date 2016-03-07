@@ -7,6 +7,8 @@ package com.equalinformation.interview.algo.java.linked_list;
  * Add non-negative numbers in two linked lists (first element is added with
  * corresponding first element) and return the result as a linked list.
  * Example input: (1 -> 2 -> 3) + (4 -> 5 -> 6), output: (5 -> 7 -> 9)
+ *
+ * Note: Compare this code with that of scala implementation in AddTwoListNumbers.scala
  */
 public class AddTwoLinkedListNumbers {
 
