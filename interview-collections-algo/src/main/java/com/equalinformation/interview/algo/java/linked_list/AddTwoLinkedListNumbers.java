@@ -2,11 +2,11 @@ package com.equalinformation.interview.algo.java.linked_list;
 
 /**
  * Due to : ProgramCreek
- * Created by bpupadhyaya on 3/6/16.
+ * Re-Created by bpupadhyaya on 3/6/16.
  *
  * Add non-negative numbers in two linked lists (first element is added with
  * corresponding first element) and return the result as a linked list.
- * Example input: (1 -> 2 -> 3) + (4 -> 5-> 6), output: (5 -> 7 -> 9)
+ * Example input: (1 -> 2 -> 3) + (4 -> 5 -> 6), output: (5 -> 7 -> 9)
  */
 public class AddTwoLinkedListNumbers {
 
