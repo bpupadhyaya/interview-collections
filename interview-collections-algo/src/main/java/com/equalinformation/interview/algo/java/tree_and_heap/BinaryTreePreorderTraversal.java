@@ -45,7 +45,7 @@ public class BinaryTreePreorderTraversal {
 
         while(!stack.empty()) {
             TreeNode n = stack.pop();
-            returnList.add(n.value);B
+            returnList.add(n.value);
 
             if(n.right != null) {
                 stack.push(n.right);
