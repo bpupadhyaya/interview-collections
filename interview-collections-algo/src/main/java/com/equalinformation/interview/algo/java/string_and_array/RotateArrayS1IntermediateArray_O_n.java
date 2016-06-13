@@ -21,7 +21,7 @@ public class RotateArrayS1IntermediateArray_O_n {
         soln.rotate(givenArray,k);
     }
 
-    public void rotate(int[] nums, int k) {
+    public int[] rotate(int[] nums, int k) {
         if(k > nums.length) {
             k = k % nums.length;
         }
@@ -43,6 +43,8 @@ public class RotateArrayS1IntermediateArray_O_n {
         for(int i: result) {
             System.out.print(i+", ");
         }
+
+        return result;
     }
 
 }
