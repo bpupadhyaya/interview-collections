@@ -18,7 +18,7 @@ object RotateArrayS1IntermediateArray_O_nTest {
 
 class RotateArrayS1IntermediateArray_O_n {
 
-  def rotate(nums: Array[Int], k: Int): Unit = {
+  def rotate(nums: Array[Int], k: Int): Array[Int] = {
     var k_var = k;
 
     if(k_var > nums.length) {
@@ -43,6 +43,8 @@ class RotateArrayS1IntermediateArray_O_n {
     for(i<- result) {
       print(i+", ")
     }
+
+    result
 
   }
 
