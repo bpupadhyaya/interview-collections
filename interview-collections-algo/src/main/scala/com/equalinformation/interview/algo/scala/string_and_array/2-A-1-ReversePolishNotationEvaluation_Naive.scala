@@ -1,6 +1,6 @@
 package com.equalinformation.interview.algo.scala.string_and_array
 
-import java.util;
+import java.util
 
 /**
   * Created by bpupadhyaya on 6/12/16.
